@@ -147,7 +147,6 @@ class ticket
         cout<<"\n\n\t\t YOUR TICKETS ARE CANCELLED\n";
         cout<<"\n\n\t\t------THANK YOU FOR VISITING------";
        }
-       cout<<"\n\n\t\t SHAMEE K. SHARMA"<<endl;
        cout<<"\n\n\t\t ROHIT KUMAR"<<endl;
 
        cin>>y;
